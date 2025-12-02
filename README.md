@@ -1,16 +1,34 @@
-## Hi there Mauli 👋
+# Hi there, I'm Mauli 👋✨
 
+### 💖 A creative Frontend Developer & UI Lover
 
-**mauliukani/mauliukani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner on GitHub 🌷  
+I love building beautiful, clean and meaningful web experiences ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+## 🌼 About Me
+- 🔭 I’m currently working on **Frontend Projects (HTML, CSS, JS & React)**  
+- 🌱 Learning **JavaScript, React & UI/UX**  
+- 👯 Looking to collaborate on **creative web projects**  
+- 🤔 Looking for help with **React & API integration**  
+- 💬 Ask me about **HTML, CSS, Responsive Design & UI ideas**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: **I can spend hours making aesthetic color palettes 🎨✨**
+
+---
+
+## 📊 GitHub Stats
+![Mauli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauliukani&show_icons=true&theme=rose_pine)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauliukani&layout=compact&theme=rose_pine)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: **your-email-here**
+- 🔗 Portfolio: (add link when ready)
+
+---
+
+### 🌸 Thanks for visiting my profile! 🌸
